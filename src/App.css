@@ -11,7 +11,7 @@ body {
 .App {
   width: 100vw;
   min-height: 100vh;
-  background-image: url("./media/space5.png");
+  background-image: url("./media/space5.jpg");
   background-repeat: none;
   background-position: center;
   background-size: cover;
